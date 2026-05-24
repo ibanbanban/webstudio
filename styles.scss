@@ -1,0 +1,418 @@
+.zezz {
+    width: 100%;
+height: 80px;
+opacity: 1;
+display: flex;
+flex-direction:row;
+align-items: center;
+}
+
+.logo {
+font-family: Raleway;
+font-weight: 700;
+font-size: 26px;
+
+line-height: 100%;
+letter-spacing: 3%;
+
+}
+
+.firstheader {
+    width: 281px;
+height: 16px;
+top: 32px;
+opacity: 1;
+display: flex;
+}
+
+.firstheader a {
+font-family: Raleway;
+font-weight: 500;
+  text-decoration: none;
+  color: black;
+margin-left: 20px;
+  }
+
+.secondheader {
+margin-left: 1078px;
+}
+
+.secondheader a {
+font-family: Roboto;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 2%;
+text-decoration: none;
+color: black;
+}
+
+.zezz a:hover {
+    color: blue;
+}   
+
+.hero {
+width: 100%;
+
+height: 600px;
+top: 80px;
+opacity: 1;
+background-color: grey;
+display: flex;
+align-items: center;
+justify-content: center;
+background-image: url(../name.jpg);
+background-size: cover;
+}
+
+.fakar {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+}
+
+.fakar button {
+margin-top: 20px;
+width: 216px;
+height: 50px;
+top: 430px;
+left: 692px;
+opacity: 1;
+border-radius: 4px;
+font-family: Roboto;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 6%;
+text-align: center;
+vertical-align: middle;
+background-color: #2196F3;
+color: white;
+border: none;
+
+}
+
+.fakar h1 {
+font-family: Roboto;
+font-weight: 900;
+font-size: 44px;
+
+line-height: 60px;
+letter-spacing: 6%;
+text-align: center;
+text-transform: uppercase;
+color: white;
+}
+
+.featureslist { 
+display: flex;
+align-items: center;
+justify-content: center;
+width: 1170px;
+height: 248px;
+opacity: 1;
+margin-left: 215px;
+margin-top: 200px;
+justify-content: space-between;
+}
+
+
+
+
+.featuresitem {
+display: inline-block;
+width: 270px;
+height: 248px;
+top: 774px;
+left: 215px;
+opacity: 1;
+}
+
+
+.featuresitem p {
+font-family: Roboto;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 3%;
+color: grey;
+}
+
+.featuresitem h3 {
+  font-family: Roboto;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 3%;
+text-transform: uppercase;
+color: black;
+}
+
+.featureslist img {
+width: 270px;
+height: 120px;
+
+}
+
+
+
+.sectiontitle {
+font-family: Roboto;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+color: black;
+
+}
+
+
+.serviceslist2 {
+  display: flex;
+align-items: center;
+justify-content: center;
+list-style: none;
+flex-direction: row;
+gap: 20px;
+position: relative;
+}
+
+.serviceslist2 img {
+width: 370px;
+height: 294px;
+align-items: center;
+position: relative ;
+}
+
+.size {
+width: 1170px;
+margin: 0px auto;
+padding : 0px 15px;
+}
+
+.position {
+position: absolute ;
+z-index: 1;
+bottom: 0px;
+width: 370px;
+height: 70px;
+background-color: #2F303ACC;
+}
+
+.position p {
+  font-family: Roboto;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+text-transform: uppercase;
+color: white;
+margin-top: 10px;
+}
+
+
+
+.container12 {
+
+  width: 100%;
+height: 708px;
+opacity: 1;
+background-color: #F5F4FA;
+}
+
+.sectiontitle5 {
+  font-family: Roboto;
+font-weight: 700;
+font-size: 36px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+color: black;
+}
+
+.teamlist {
+  display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: row;
+list-style: none;
+gap: 20px;
+}
+
+
+
+.teamitem {
+  
+  width: 270px;
+height: 428px;
+top: 1782px;
+left: 215px;
+opacity: 1;
+background: #FFFFFF;
+box-shadow: 0px 2px 1px 0px #00000033;
+
+box-shadow: 0px 1px 1px 0px #00000024;
+
+box-shadow: 0px 1px 3px 0px #0000001F;
+}
+
+.teamname {
+  font-family: Roboto;
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+color: black;
+}
+.teamposition {
+  font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+
+}
+
+.teamitem img {
+width: 270px;
+height: 260px;
+
+}
+.container44 {
+  width: 1170px;
+  margin: 0 auto;
+
+}
+
+.clientlist {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.clientitem {
+  width: 170px;
+  height: 92px;
+
+  border: 1px solid #AFB1B8;
+  border-radius: 4px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clientitem a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: 100%;
+}
+
+.clientitem img {
+  width: 40px;
+  height: 50px;
+}
+
+.titleclient {
+  font-family: Roboto;
+font-weight: 700;
+font-size: 36px;
+
+line-height: 100%;
+letter-spacing: 3%;
+text-align: center;
+color: black;
+
+}
+
+
+
+  @media (max-width: 768px) {
+
+  .featureslist {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin: 50px auto;
+    gap: 30px;
+  }
+
+  .featuresitem {
+    width: 100%;
+    text-align: center;
+  }
+
+  .featureslist img {
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .serviceslist2 {
+    flex-direction: column;
+  }
+
+  .serviceslist2 img {
+    width: 100%;
+    height: auto;
+  }
+
+  .position {
+    width: 100%;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .teamlist {
+    flex-direction: column;
+  }
+
+  .teamitem {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .teamitem img {
+    width: 100%;
+    height: auto;
+  }
+
+}
+@media (max-width: 768px) {
+  .container44{
+    margin-top: 50px;
+    width: 100%;
+    padding: 0 15px;
+
+  }
+
+  .clientlist {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .clientitem {
+    width: 140px;
+  }
+
+}
+ 
